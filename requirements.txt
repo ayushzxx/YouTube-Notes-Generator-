@@ -1,0 +1,12 @@
+streamlit
+yt-dlp
+faster-whisper
+langchain>=0.2.0
+langchain-openai
+langchain-core
+python-dotenv
+fpdf
+markdown
+openai
+pydantic
+
